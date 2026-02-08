@@ -1,4 +1,6 @@
-# HTML
+# Pranav Thaware
+CS25223
+HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
